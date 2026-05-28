@@ -1,4 +1,6 @@
-# 🌍 Country Analytics Dashboard
+# 🌍 Country Analytics Dashboard -
+Live Demo: [https://your-app.streamlit.app
+](https://nithyasrid-country-analytics-dashboard-app-oihvjf.streamlit.app/)
 
 An interactive web dashboard built with **Python**, **Streamlit**, **Pandas**, **Plotly**, and the **REST Countries API**.
 
