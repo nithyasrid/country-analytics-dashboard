@@ -295,8 +295,9 @@ Developed as a portfolio project to showcase Python, Data Analytics, Visualizati
 
 ## Connect
 
-GitHub: https://github.com/yourusername
+GitHub: [https://github.com/yourusername](https://github.com/nithyasrid)
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nithya-sri-d-b94b86281/)
 
-Live Demo: https://your-app.streamlit.app
+Live Demo: [https://your-app.streamlit.app
+](https://nithyasrid-country-analytics-dashboard-app-oihvjf.streamlit.app/)
